@@ -8,4 +8,9 @@
 # Technologies
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,javascript,react,nodejs,express,mysql,mongo,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,mysql,mongo,java,spring)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
