@@ -8,4 +8,4 @@
 # Technologies
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,javascript,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,javascript,react,nodejs,express,mysql,mongo,java,spring)](https://skillicons.dev)
