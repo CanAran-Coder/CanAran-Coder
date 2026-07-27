@@ -1,8 +1,12 @@
 # Can Aran
 
-Software Engineer focused on backend architecture, distributed systems, and scalable web applications.
 
----
+**Computer Engineer** focused on:
+* **Backend Architecture**
+* **Distributed Systems**
+* **System Design**
+* **Software Architecture**
+
 
 ### Core Engineering
 
