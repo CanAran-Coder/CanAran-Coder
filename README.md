@@ -1,8 +1,5 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans&pause=1000&color=EAC117&width=435&separator=%3C&lines=Hello+World%2C+I+am+%7BCan+Aran%7D;)](https://git.io/typing-svg)
-
-
-
+![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=CanAran-Coder&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanAran-Coder&layout=compact&theme=dark)
 
 
 # Technologies
