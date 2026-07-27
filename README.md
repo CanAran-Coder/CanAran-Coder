@@ -22,7 +22,3 @@
 ![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED)
 ---
 
-### Architecture & Focus
-
-* **Backend & Systems:** Designing robust REST APIs, clean application architecture, and caching strategies.
-* **Full-Stack Integration:** Building seamless end-to-end applications using modern web standards.
