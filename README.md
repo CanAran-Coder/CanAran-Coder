@@ -21,12 +21,4 @@
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=D4AF37&labelColor=000000&color=000000)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=D4AF37&labelColor=000000&color=000000)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37&labelColor=000000&color=000000)
-
----
-
-### <font color="#D4AF37">Connect</font>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000&color=000000)]([https://linkedin.com](https://www.linkedin.com/in/can-aran-811a05382/))
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000&color=000000)](mailto:can.aran.coder@gmail.com)
-
 </div>
