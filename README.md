@@ -21,4 +21,5 @@
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=D4AF37&labelColor=000000&color=000000)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=D4AF37&labelColor=000000&color=000000)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37&labelColor=000000&color=000000)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=D4AF37&labelColor=000000&color=000000)
 </div>
