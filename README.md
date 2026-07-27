@@ -25,4 +25,5 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=D4AF37&labelColor=000000&color=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=D4AF37&labelColor=000000&color=000000)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-000000?style=for-the-badge&logo=junit5&logoColor=D4AF37&labelColor=000000&color=000000)
+![SLF4J](https://img.shields.io/badge/SLF4J-000000?style=for-the-badge&logo=simpleicons&logoColor=D4AF37&labelColor=000000&color=000000)
 </div>
