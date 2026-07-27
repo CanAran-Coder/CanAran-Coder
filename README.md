@@ -1,7 +1,11 @@
 # Can Aran
 
 
-**Computer Engineer** | Backend Architecture • Distributed Systems • System Design • Software Architecture
+**Computer Engineer** focused on:
+* **Backend Architecture**
+* **Distributed Systems**
+* **System Design**
+* **Software Architecture**
 
 
 ### Core Engineering
