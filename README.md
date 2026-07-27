@@ -26,7 +26,7 @@
 
 ### <font color="#D4AF37">Connect</font>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000&color=000000)]([https://linkedin.com](https://www.linkedin.com/in/can-aran-811a05382/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000&color=000000)]([https://linkedin.com](https://www.linkedin.com/in/can-aran-811a05382/))
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000&color=000000)](mailto:can.aran.coder@gmail.com)
 
 </div>
